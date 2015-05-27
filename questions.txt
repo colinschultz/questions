@@ -1,0 +1,3594 @@
+#http://www.medicinenet.com/script/main/alphaidx.asp?p=b_dict
+
+#http://www.globalrph.com/abbr2.htm
+
+#http://www.medilexicon.com/medicalabbreviations.php
+
+@L=Unit 1: Lesson 1: Word Parts
+@G=1: Defining word root
+#(Question=3)
+@Q=What is a word root?
+@A=The basic meaning of a term
+@D=Text placed at the beginning of the term
+@D=Text placed at the end of the term
+
+@Q=Which of these word parts contains the basic meaning of a term?
+@A=Word root
+@D=Suffix
+@D=Prefix
+
+@Q=What does a word root usually indicate?
+@A=A body part
+@D=A body condition
+@D=A body location
+@D=A body appearance
+
+@G=2: Defining prefix
+#(Question=2)
+@Q=What is a prefix?
+@A=Text placed at the beginning of the term
+@D=The basic meaning of a term
+@D=Text placed at the end of the term
+
+@Q=A ______ is placed at the beginning of a term?
+@D=Word root
+@D=Suffix
+@A=Prefix
+
+@G=3: Defining suffix
+#(Question=2)
+@Q=What is a suffix?
+@A=Text placed at the end of the term
+@D=The basic meaning of a term
+@D=Text placed at the beginning of the term
+
+@Q=A ______ is placed at the end of a term?
+@A=Suffix
+@D=Word root
+@D=Prefix
+
+@G=4: Identifying word parts
+#(Question=3)
+@Q=In the word subhepatic, "hepa" is a:
+@A=Word root
+@D=Prefix
+@D=Suffix
+
+@Q=In the word intravenous, "intra" is a:
+@A=Prefix
+@D=Word root
+@D=Suffix
+
+@Q=In the word electrocardiogram, "gram" is a:
+@A=Suffix
+@D=Word root
+@D=Prefix
+@L=Unit 1: Lesson 2: Word Roots
+@G=1: Integumentary System Word Roots
+#(Question=4)
+@Q=What does the word root "cutane" mean?
+@A=Skin
+@D=Surface
+@D=Hair
+@D=Sweat
+
+@Q=What does the word root "derm" mean?
+@A=Skin
+@D=Surface
+@D=Hair
+@D=Sweat
+
+@Q=What does the word root "hidr" mean?
+@A=Sweat
+@D=Water
+@D=Oil
+@D=Fluid
+
+@Q=What does the word root "pil" mean?
+@A=Hair
+@D=Nail
+@D=Skin
+@D=Skin
+
+@G=2: Skeletal System Word Roots
+#(Question=5)
+@Q=What does the word root "ost" mean?
+@A=Bones
+@D=Joints
+@D=Cartilage
+@D=Ligaments
+
+@Q=What does the word root "oss" mean?
+@A=Bones
+@D=Joints
+@D=Cartilage
+@D=Ligaments
+
+@Q=What does the word root "chondr" mean?
+@A=Cartilage
+@D=Bones
+@D=Joints
+@D=Ligaments
+
+@Q=What does the word root "arthr" mean?
+@A=Joints
+@D=Bones
+@D=Cartilage
+@D=Marrow
+
+@Q=What does the word root "myel" mean?
+@A=Bone marrow
+@D=Red marrow
+@D=White marrow
+@D=Joint marrow
+
+@G=3: Muscular System Word Roots
+#(Question=2)
+#What does the word root "fasci" mean?
+#fascia
+
+@Q=What does the word root "my" mean?
+@A=Muscle
+@D=Tissue
+@D=Tendon
+@D=Cartilage
+
+@Q=What does the word root "ten" mean?
+@A=Tendon
+@D=Tissue
+@D=Muscle
+@D=Tension
+
+@G=4: Nervous System Word Roots
+#(Questions=7)
+@Q=What does the word root "encephal" mean?
+@A=Brain
+@D=Nerve
+@D=Spine
+@D=Eyes
+
+@Q=What does the word root "ot" mean?
+@A=Ears
+@D=Eyes
+@D=Nose
+@D=Mouth
+
+@Q=What does the word root "acoust" mean?
+@A=Ears
+@D=Eyes
+@D=Nose
+@D=Mouth
+
+@Q=What does the word root "ocul" mean?
+@A=Eyes
+@D=Ears
+@D=Nose
+@D=Mouth
+
+@Q=What does the word root "ophthalm" mean?
+@A=Eyes
+@D=Ears
+@D=Nose
+@D=Mouth
+
+@Q=What does the word root "neur" mean?
+@A=Nerves
+@D=Spine
+@D=Brain
+@D=Eyes
+
+@Q=What does the word root "myel" mean?
+@A=Spinal cord
+@D=Brain tissue
+@D=Nerve root
+@D=Facial tissue
+
+@G=5: Cardiovascular System Word Roots
+#(Questions=5)
+@Q=What does the word root "arteri" mean?
+Arteries
+Blood
+Heart
+Veins
+
+@Q=What does the word root "hem" or "hemat" mean?
+@A=Blood
+@D=Arteries
+@D=Veins
+@D=Heart
+
+@Q=What does the word root "card" or "cardi" mean?
+@A=Heart
+@D=Arteries
+@D=Veins
+@D=Capillaries
+
+@Q=What does the word root "phleb" mean?
+@A=Veins
+@D=Arteries
+@D=Capillaries
+@D=Blood
+
+@Q=What does the word root "ven" mean?
+@A=Veins
+@D=Ventricle
+@D=Capillaries
+@D=Blood
+
+#What does the word root "capill" mean?
+#Capillaries
+#Arteries
+#Veins
+#Heart
+
+@G=6: Lymphatic System Word Roots
+#(Questions=0)
+#What does the word root "lymph" mean?
+#Lymph
+
+#What does the word root "splen" mean?
+#Spleen
+
+#What does the word root "thym" mean?
+#Thymus
+#Mind
+#Thymoid
+#Heat
+
+#What does the word root "tonsil" mean?
+#Tonsils
+
+@G=7: Respiratory System Word Roots
+#(Questions=3)
+#What does the word root "laryng" mean?
+#Larynx
+
+@Q=What does the word root "pneum" mean?
+@A=Lungs
+@D=Breathing
+@D=Nose
+@D=Illness
+
+@Q=What does the word root "nas" mean?
+@A=Nose
+@D=Breath
+@D=Lungs
+@D=Sinus
+
+#What does the word root "pharyng" mean?
+#Pharynx
+
+#What does the word root "trache" mean?
+#Trachea
+
+@Q=What does the word root "sinus" mean?
+@A=Sinuses
+@D=Nose
+@D=Breathing
+@D=Lungs
+
+@G=8: Digestive System Word Roots
+#(Questions=5)
+#What does the word root "esophag" mean?
+#Esophagus
+
+@Q=What does the word root "col" mean?
+@A=Large intestine
+@D=Small intestine
+@D=Intestinal track
+@D=Digestion
+
+@Q=What does the word root "hepat" mean?
+@A=Liver
+@D=Blood
+@D=Veins
+@D=Poison
+
+@Q=What does the word root "or" mean?
+@A=Mouth
+@D=Eye
+@D=Ears
+@D=Nose
+
+#What does the word root "pancreat" mean?
+#Pancreas
+
+@Q=What does the word root "enter" mean?
+@A=Small intestine
+@D=Mouth
+@D=Esophagus
+@D=Swallow
+
+@Q=What does the word root "gastr" mean?
+@A=Stomach
+@D=Digest
+@D=To Eat
+@D=Intestine
+
+@G=9: Urinary System Word Roots
+#(Questions=4)
+@Q=What does the word root "nephr" mean?
+@A=Kidneys
+@D=Ureters
+@D=Bladder
+@D=Urethra
+
+@Q=What does the word root "ren" mean?
+@A=Kidneys
+@D=Ureters
+@D=Bladder
+@D=Urethra
+
+#What does the word root "ureter" mean?
+#Ureters
+
+#What does the word root "urethra" mean?
+#Urethra
+
+@Q=What does the word root "cyst" mean?
+@A=Bladder
+@D=Kidney
+@D=Vessel
+@D=Fluid
+
+@Q=What does the word root "vesic" mean?
+@A=Bladder
+@D=Kidney
+@D=Vessel
+@D=Fluid
+
+@G=10: Digestive System Word Roots
+#(Questions=0)
+#What does the word root "adren" mean?
+#Adrenals
+
+#What does the word root "gonad" mean?
+#Gonads
+
+#What does the word root "pancreat" mean?
+#Pancreas
+
+#What does the word root "parathyroid" mean?
+#Parathyroid glands
+
+#What does the word root "pineal" mean?
+#Pineal
+
+#What does the word root "pituit" mean?
+#Pituitary
+
+#What does the word root "thym" mean?
+#Thymus
+
+#What does the word root "thyroid" mean?
+#Thyroid
+
+@G=11: Reproductive System Word Roots
+#(Questions=5)
+@Q=What does the word root "orch" mean?
+@A=Testicles
+@D=Ovaries
+@D=Uterus
+@D=Orchard
+
+@Q=What does the word root "test" mean?
+@A=Testicles
+@D=Tentacle
+@D=Testing
+@D=Testosterone
+
+@Q=What does the word root "oophor" mean?
+@A=Ovaries
+@D=Occular
+@D=Organ
+@D=Morph
+
+@Q=What does the word root "hyster" mean?
+@A=Uterus
+@D=Water
+@D=Ovaries
+@D=Fluid
+
+@Q=What does the word root "metr" mean?
+@A=Uterus
+@D=Ovary
+@D=Testicle
+@D=Meter
+
+@G=12: General
+#(Questions=7)
+@Q=Pneumonia is a condition of which of these organs?
+@A=Lungs 
+@D=Liver
+@D=Tongue 
+
+@Q=Gastrointestinal is related to which body system?
+@A=Digestive
+@D=Integumentary
+@D=Nervous
+@D=Muscular
+
+@Q=A renal calculus is the term for which of these conditions?
+@A=Kidney stone
+@D=Heart attack
+@D=Common cold
+@D=Broken bone
+
+@Q=Osteoporosis is a disease of which of these items?
+@A=Bones
+@D=Stomach
+@D=Skin
+@D=Eyes
+
+@Q=Cystitis is an infection of which of these organs?
+@A=Bladder
+@D=Skin
+@D=Brain
+@D=Tonsils 
+
+@Q=Subcutaneous refers to a part of this item?
+@A=Skin
+@D=Brain
+@D=Stomach
+@D=Ear
+
+@Q=Words describing bone marrow and spinal cord can share the same word root of
+@A=Myel
+@D=Ost
+@D=Chondr
+@D=Arthr
+
+@L=Unit 2: Lesson 1: Suffixes
+@G=1: “A-D” Suffixes
+#(Question8)
+@Q=What does the suffix "-al" mean?
+@A=Pertaining to
+@D=Connected to
+@D=Growing to
+@D=Including all
+
+@Q=What does the suffix "-ase" mean?
+@A=Enzyme
+@D=Acid
+@D=Cell
+@D=Chemical
+
+@Q=What does the suffix "-blast" mean?
+@A=Budding
+@D=Initial
+@D=Burst
+@D=Beginning
+
+@Q=What does the suffix "-centesis" mean?
+@A=Surgical puncture
+@D=Surgical procedure
+@D=Surgical event
+@D=Surgical diagnosis
+
+@Q=What does the suffix "-cidal" mean?
+@A=Causing death
+@D=Causing side affects
+@D=Causing harm
+@D=Causing loss
+
+@Q=What does the suffix "-clast" mean?
+@A=Broken
+@D=Torn
+@D=Ruptured
+@D=Punctured
+
+@Q=What does the suffix "-crit" mean?
+@A=To separate
+@D=To cut
+@D=To puncture
+@D=To tear
+
+@Q=What does the suffix "-cyte" mean?
+@A=Cell
+@D=Skin
+@D=Protein
+@D=Membrane
+
+@G=2: “E-H” Suffixes
+#(Question7)
+@Q=What does the suffix "-ectomy" mean?
+@A=Surgical removal
+@D=Chemical management
+@D=Physical enhancement
+@D=Medical treatment
+
+@Q=What does the suffix "-emia" mean?
+@A=Blood condition
+@D=Cell condition
+@D=Skin condition
+@D=Hair condition
+
+@Q=What does the suffix "-emesis" mean?
+@A=Vomiting
+@D=Coughing
+@D=Sneezing
+@D=Shaking
+
+@Q=What do the suffix "-genesis" mean?
+@A=Causing
+@D=Generic
+@D=Reproduce
+@D=Initiate
+
+@Q=What do the suffix "-genic" mean?
+@A=Producing
+@D=Generic
+@D=Reproduce
+@D=Initiate
+
+@Q=What does the suffix "-glia" mean?
+@A=Glue
+@D=Dissolve
+@D=Fasten
+@D=Break
+
+@Q=What does the suffix "-gram" mean?
+@A=Something written
+@D=Something spoken
+@D=Something transmitter
+@D=Something copied
+
+@G=3: “I-M” Suffixes
+#(Question15)
+@Q=What does the suffix "-ia" mean?
+@A=Condition of disease 		
+@D=Condition of fear
+@D=Condition of treatment
+@D=Condition of structure
+
+@Q=What does the suffix "-ia" mean?
+@A=Condition of abnormal state
+@D=Condition of extremity
+@D=Condition of internal systems
+@D=Condition of vital measurements
+
+@Q=What do the suffix "-iac" mean?
+@A=Pertaining to
+@D=Connected to
+@D=Growing to
+@D=Including all
+
+@Q=What do the suffix "-ic" mean?
+@A=Pertaining to
+@D=Connected to
+@D=Growing to
+@D=Including all
+
+@Q=What do the suffix "-ior" mean?
+@A=Pertaining to
+@D=Connected to
+@D=Growing to
+@D=Including all
+
+@Q=What does the suffix "-ism" mean?
+@A=State of
+@D=Pertaining to
+@D=Condition of 
+@D=Study of
+
+@Q=What do the suffix "-itia" mean?
+@A=Inflammation
+@D=Disease
+@D=Condition
+@D=Irregular
+
+@Q=What do the suffix "-itis" mean?
+@A=Inflammation
+@D=Disease
+@D=Condition
+@D=Irregular
+
+@Q=What does the suffix "-logy" mean?
+@A=Study of
+@D=Pertaining to
+@D=Condition of 
+@D=State of
+
+@Q=What does the suffix "-lyte" mean?
+@A=Dissolvable
+@D=Inflammation
+@D=Condition
+@D=Reduce
+
+@Q=What does the suffix "-lytic" mean?
+@A=Destroy 
+@D=Remove
+@D=Support
+@D=Puncture
+
+@Q=What does the suffix "-lytic" mean?
+@A=Reduce
+@D=Condition
+@D=Support
+@D=Puncture
+
+@Q=What does the suffix "-mania" mean?
+@A=Madness 
+@D=Sanity
+@D=Inflammation
+@D=Condition
+
+@Q=What does the suffix "-megaly" mean?
+@A=Enlargement
+@D=Inflammation
+@D=Swelling
+@D=Measured
+
+@Q=What does the suffix "-meter" mean?
+@A=Instrument used to measure
+@D=Instrument used to calibrate
+@D=Instrument used to visual examination
+@D=Instrument used to recording data
+
+@G=4: “N-O” Suffixes
+#(Question12)
+@Q=What does the suffix "-odia" mean?
+@A=Smell
+@D=See
+@D=Hear
+@D=Touch
+
+@Q=What does the suffix "-ologist" mean?
+@A=One who studies
+@D=One who sells
+@D=One who rules
+@D=One who cares for
+
+@Q=What does the suffix "-oma" mean?
+@A=Tumor
+@D=Discharge
+@D=Sleep
+
+@Q=What does the suffix "-oma" mean?
+@A=Swelling
+@D=Tumor
+@D=Rupture
+
+@Q=What does the suffix "-opia" mean?
+@A=Vision
+@D=Audio
+@D=Touch
+@D=Taste
+
+@Q=What does the suffix "-opsy" mean?
+@A=To view
+@D=To hear
+@D=To touch
+@D=To taste
+
+@Q=What does the suffix "-orrhea" mean?
+@A=Excessive discharge
+@D=Excessive time
+@D=Excessive hardening
+@D=Excessive pain
+
+@Q=What does the suffix "-orrhexis" mean?
+@A=Rupture
+@D=Puncture
+@D=Discharge
+@D=Infection
+
+@Q=What does the suffix "-osis" mean?
+@A=Abnormal increase in production
+@D=Abnormal decrease in production
+@D=Normal variance in production
+@D=Non-normal variance in production
+
+@Q=What does the suffix "-ostomy" mean?
+@A=Creation of an artificial opening
+@D=Surgically removing tissue
+@D=Fixing an abnormal condition
+@D=Closing an incision
+
+@Q=What does the suffix "-otomy" mean?
+@A=Cut into
+@D=Repair of
+@D=Puncture with
+@D=Separate from
+
+@Q=What does the suffix "-oxia" mean?
+@A=Oxygen
+@D=Opening
+@D=Smell
+@D=Vision
+
+@G=5: “P-Z” Suffixes
+#(Question10)
+@Q=What does the suffix "-pathy" mean?
+@A=Disease
+@D=Thought
+@D=Illness
+@D=Control
+
+@Q=What does the suffix "-sclerosis" mean?
+@A=Hardening
+@D=Melting
+@D=Freezing
+@D=Stiffening
+
+@Q=What does the suffix "-scope" mean?
+@A=Instrument used for visual examination
+@D=Instrument used to measure
+@D=Instrument used to calibrate
+@D=Instrument used to recording data
+
+@Q=What does the suffix "-scopy" mean?
+@A=Visual examination
+@D=Measurement
+@D=Recording data
+@D=Copying information
+
+@Q=What does the suffix "-sepsis" mean?
+@A=Infection
+@D=Discharge
+@D=Hardening
+@D=Discoloring
+
+@Q=What does the suffix "-spasm" mean?
+@A=Sudden involuntary muscle contraction
+@D=Unexpected discharge of fluid
+@D=Quick movement of body parts 
+@D=Stiffening of arms or legs
+
+@Q=What does the suffix "-stasis" mean?
+@A=Control
+@D=Protect
+@D=Call
+@D=Review
+
+@Q=What does the suffix "-stasis" mean?
+@A=Stop
+@D=Start
+@D=Call
+@D=Status
+
+@Q=What does the suffix "-tomy" mean?
+@A=Cutting
+@D=Influencing
+@D=Hardening
+@D=Capping
+
+@Q=What does the suffix "-tropic" mean?
+@A=Influencing 
+@D=Cutting
+@D=Stitching
+@D=Covering
+
+@G=6: Suffix Usages
+#(Question0)
+#Questions Removed
+
+@L=Unit 2: Lesson 2: Prefixes
+@G=1: "A-B" Prefixes
+#(Question10)
+@Q=What do the prefix "a-" mean?
+@A=Without 
+@D=From
+@D=Toward
+@D=Before
+
+@Q=What do the prefix "an-" mean?
+@A=Absence of
+@D=Many 
+@D=Between
+@D=Under
+
+@Q=What does the prefix "ab-" mean?
+@A=Away from
+@D=Back to
+@D=Down in
+@D=Up towards
+
+@Q=What does the prefix "ad-" mean?
+@A=To 
+@D=Up
+@D=Back
+@D=Down
+
+@Q=What does the prefix "ana-" mean?
+@A=Up
+@D=Down
+@D=In
+@D=Out
+
+@Q=What does the prefix "ante-" mean?
+@A=Before
+@D=After
+@D=Back
+@D=Front
+
+@Q=What does the prefix "anti-" mean?
+@A=Against
+@D=Not
+@D=Friction
+@D=Rough
+
+@Q=What does the prefix "append-" mean?
+@A=To hang something
+@D=To remove something
+@D=To adjust something
+@D=To build something
+
+@Q=What do the prefixes "bi-" mean?
+@A=Two
+@D=Double
+@D=Half
+@D=Partial
+
+#What do the prefixes "bin-" mean?
+#two
+
+@Q=What does the prefix "brady-" mean?
+@A=slow
+@D=fast
+@D=stop
+@D=start
+
+@G=2: "C-F" Prefixes
+#(Question9)
+@Q=What does the prefix "contra-" mean?
+@A=Against
+@D=Not
+@D=Repel
+@D=Prevent
+
+@Q=What does the prefix "di-" mean?
+@A=Two
+@D=Many
+@D=Half
+@D=Partial
+
+@Q=What does the prefix "dis-" mean?
+@A=To undo 
+@D=To remove
+@D=To minimize
+@D=To dispel 
+
+@Q=What do the prefixes "ecto-" mean?
+@A=Outside
+@D=Shield
+@D=Cover
+@D=Protection
+
+@Q=What do the prefixes "exo-" mean?
+@A=Outside
+@D=Shield
+@D=Cover
+@D=Protection
+
+@Q=What do the prefixes "extra-" mean?
+@A=Outside
+@D=More
+@D=Cover
+@D=Additional
+
+@Q=What does the prefix "endo-" mean?
+@A=Within
+@D=Filling
+@D=Contain
+@D=Mass
+
+@Q=What does the prefix "epi-" mean?
+@A=Upon
+@D=Large
+@D=Gathering
+@D=Famous
+
+@Q=What does the prefix "erythr-" mean?
+@A=Red
+@D=Bue
+@D=Green
+@D=Black
+
+@G=3: “G-L” Prefixes
+#(Question8)
+@Q=What does the prefix "glyc-" mean?
+@A=Sweet
+@D=Sourer
+@D=Bitter
+@D=Good
+
+@Q=What does the prefix "hyper-" mean?
+@A=Over
+@D=Most
+@D=Larger
+@D=Greater
+
+@Q=What does the prefix "hypo-" mean?
+@A=Under
+@D=Least
+@D=Smaller
+@D=Water
+
+#What does the prefix "im-" mean?
+#Not
+
+@Q=What does the prefix "infra-" mean?
+@A=Beneath
+@D=Under
+@D=Covered
+@D=Invisible
+
+@Q=What does the prefix "infra-" mean?
+@A=Below
+@D=Under
+@D=Covered
+@D=Invisible
+
+@Q=What does the prefix "inter-" mean?
+@A=Between
+@D=Across
+@D=Inside
+@D=Equal
+
+@Q=What does the prefix "intra-" mean?
+@A=Inside
+@D=Between
+@D=Outside
+@D=Across
+
+@Q=What does the prefix "iso-" mean?
+@A=Equal
+@D=Divide
+@D=Focus
+@D=Separate
+
+@G=4: “M-N” Prefixes
+#(Question9)
+@Q=What does the prefix "macro-" mean?
+@A=Large
+@D=Small
+@D=Change
+@D=Study
+
+@Q=What does the prefix "mal-" mean?
+@A=Bad
+@D=Dirty
+@D=Harm
+@D=Unknown
+
+@Q=What does the prefix "meso-" mean?
+@A=Middle
+@D=Front
+@D=Back
+@D=Side
+
+@Q=What does the prefix "meta-" mean?
+@A=After
+@D=Before
+@D=Middle
+@D=Front
+
+@Q=What does the prefix "micro-" mean?
+@A=Small
+@D=Large
+@D=Change
+@D=Moderate
+
+@Q=What does the prefix "mono-" mean?
+@A=One
+@D=Many
+@D=Few
+@D=New
+
+@Q=What does the prefix "multi-" mean?
+@A=Many
+@D=Few
+@D=Single
+@D=Diverse
+
+@Q=What does the prefix "mut-" mean?
+@A=Change
+@D=Different
+@D=Variable
+@D=Select
+
+@Q=What does the prefix "neo-" mean?
+@A=New
+@D=Many
+@D=Change
+@D=More
+
+@G=5: “P-R” Prefixes
+#(Question11)
+@Q=What does the prefix "para-" mean?
+@A=Beside
+@D=After
+@D=Front
+@D=Back
+
+@Q=What does the prefix "patho"- mean? 
+@A=Disease
+@D=Inflammation
+@D=Guided
+@D=History
+
+@Q=What does the prefix "peri-" mean?
+@A=Surrounding
+@D=Underneath
+@D=Protruding
+@D=Hidden
+
+@Q=What does the prefix "poly-" mean?
+@A=Many
+@D=Most
+@D=Few
+@D=Before
+
+@Q=What does the prefix "post-" mean?
+@A=After
+@D=Before
+@D=Next
+@D=Side
+
+@Q=What does the prefix "pre-" mean? 
+@A=Before
+@D=Next
+@D=After
+@D=Front
+
+@Q=What does the prefix "pseudo-" mean?
+@A=False
+@D=Similar
+@D=Alike
+@D=Different
+
+@Q=What does the prefix "re-" mean?
+@A=Back 
+@D=Repeat
+@D=After
+@D=Many
+
+@Q=What does the prefix "re-" mean?
+@A=Again
+@D=Repeat
+@D=After
+@D=Many
+
+@Q=What does the prefix "retro-" mean?
+@A=Backward
+@D=Older
+@D=Forgotten
+@D=Ancient
+
+@Q=What does the prefix "retro-" mean?
+@A=Behind
+@D=Older
+@D=Forgotten
+@D=Ancient
+
+@G=6: “S-Z” Prefixes
+#(Question16)
+@Q=What does the prefix "semi-" mean?
+@A=Half
+@D=Two
+@D=Split
+@D=Incomplete
+
+@Q=What does the prefix "sub-" mean?
+@A=Under
+@D=Slow
+@D=Small
+@D=Half
+
+@Q=What does the prefix "sub-" mean?
+@A=Below
+@D=Slow
+@D=Small
+@D=Half
+
+@Q=What does the prefix "super-" mean?
+@A=Over
+@D=Best 
+@D=Fast
+@D=More
+
+@Q=What does the prefix "super-" mean?
+@A=Above
+@D=Best 
+@D=Fast
+@D=More
+
+@Q=What does the prefix "syn-" mean?
+@A=Together 
+@D=Both
+@D=Coordinated
+@D=Pair
+
+@Q=What does the prefix "syn-" mean?
+@A=Joined
+@D=Glued
+@D=Attached
+@D=Paired
+
+@Q=What does the prefix "tachy-" mean?
+@A=Fast
+@D=Quick
+@D=Repeat
+@D=Many
+
+@Q=What does the prefix "tetra-" mean?
+@A=Four
+@D=Many
+@D=Land
+@D=Multiple
+
+@Q=What does the prefix "trans-" mean?
+@A=Through
+@D=Over
+@D=Transfer
+@D=Location
+
+
+@A=@Q=What does the prefix "trans-" mean?
+@D=Across
+@D=Over
+@D=Transfer
+@D=Location
+
+
+@A=@Q=What does the prefix "trans-" mean?
+@D=Beyond
+@D=Over
+@D=Transfer
+@D=Location
+
+@Q=What does the prefix "tri-" mean?
+@A=Three
+@D=Many
+@D=Multiple
+@D=Trip
+
+@Q=What does the prefix "ultra-" mean?
+@A=Beyond
+@D=More
+@D=Many
+@D=Beyond
+
+@Q=What does the prefix "ultra-" mean?
+@A=Excess
+@D=More
+@D=Many
+@D=Beyond
+
+@Q=What does the prefix "uni-" mean?
+@A=One
+@D=Single
+@D=Once
+@D=Only
+
+@G=7: Prefix Usages
+#(Question0)
+#Questions Removed
+@L=Unit 2: Lesson 3: Combining Word Parts
+@G=1: Required Word Parts
+#(Question3)
+@Q=Can word roots stand alone?
+@D=Yes
+@A=No
+
+@Q=Are suffixes always required in a medical term?
+@A=Yes
+@D=No
+
+@Q=Are prefixes always required in a medical term?
+@D=Yes
+@A=No
+
+@G=2: Combining Vowels
+#(Question6)
+@Q=What is the purpose of combining vowels?
+@A=To make terms easier to pronounce
+@D=To join a prefix and word root
+@D=To abbreviate two or more word root
+@D=To make it easier to identify a word root
+
+@Q=What are vowels added between word parts to make them easier to say?
+@A=Combining vowels
+@D=Uniting vowels
+@D=Joining vowels
+@D=Linking vowels
+
+@Q=What is the most common combining vowel?
+@D=A
+@D=E
+@D=I
+@A=O
+@D=U
+@Random=No
+
+@Q=Combining vowel is used when:
+@A=Two or more word roots are joined
+@D=A prefix ends in a consonant
+@D=A suffix ends in a consonant
+
+@Q=Combining vowel is used when:
+@A=A suffix begins with a consonant
+@D=A prefix begins with a consonant
+@D=Two or more prefixes are combined with multiple word roots
+
+@Q=Should a combining vowel every be used between a prefix and a word root
+@D=Yes
+@A=No
+
+@G=3: Combined Word Parts
+#(Question8)
+@Q=When decoding a medical term, what is the order you should define the word parts? 
+@A=Suffix > Prefix > Word root
+@D=Prefix > Word root > Suffix
+@D=Word root > Prefix > Suffix
+@D=Word root > Suffix > Prefix
+
+@Q=When decoding the following medical term, "bradycardia," what word part would you define first?
+@A=Suffix – "ia"
+@D=Prefix – "brady"
+@D=Word root – "card"
+
+@Q=When decoding the following medical term, "bradycardia," what word part would you define last?
+@A=Word root – "card"
+@D=Suffix – "ia"
+@D=Prefix – "brady"
+
+@Q=For the medical term, "bradycardia," define the suffix.
+@A=Condition of
+@D=Slow
+@D=Heart
+@D=None exists
+
+@Q=For the medical term, "bradycardia," define the prefix.
+@A=Slow
+@D=Condition of
+@D=Heart
+@D=None exists
+
+@Q=When decoding the following medical term, "polymyositis," what word part would you define second?
+@A=Prefix – "poly"
+@D=Word root – "my"
+@D=Suffix – "itis"
+
+@Q=For the medical term, "polymyositis," define the word root.
+@A=Muscle
+@D=Many
+@D=Swelling
+@D=None exists
+
+@Q=What does "hypodermic" mean?
+@A=Pertaining to below the skin 
+@D=Pertaining to above the skin 
+@D=Pertaining to something away from the skin 
+@D=Pertaining to something produced by the skin 
+
+@G=4: Combined Word Parts to Form Medical Terms
+#(Question19)
+@Q=What does "adduction" mean?
+@A=A motion toward the midline
+@D=Without motion
+@D=An upward motion
+@D=A motion away from the midline
+
+@Q=What does "adrenal" mean?
+@D=Abnormal condition of the kidneys
+@D=Pertaining to the liver
+@A=Pertaining to the kidneys
+@D=Pertaining to the nerves
+
+@Q=What does "bronchitis" mean?
+@A=An inflammation of the bronchial tubes 
+@D=Removal of a lung
+@D=Puncture of a lung
+@D=Any condition pertaining to the air passages
+
+@Q=What does "cardiogenic" mean?
+@D=Anything pertaining to the brain
+@A=Produced in or caused by the heart
+@D=Anything pertaining to the heart
+@D=Produced in or caused by the brain 
+
+@Q=What does "colostomy" mean?
+@D=Creation of an artificial opening in a lung
+@A=Creation of an artificial opening in the large intestine
+@D=An instrument use for visual inspection of the large intestine
+@D=An instrument use for visual inspection of the mouth 
+
+@Q=What does "dislocation" mean?
+@A=When a bone comes apart from a joint 
+@D=When two bones push against each other
+@D=A motion toward the body
+@D=Between the bones
+
+@Q=What is an "electrocardiogram"?
+@A=Written output charting heart activity
+@D=The study of the heart
+@D=Heart surgery
+@D=An abnormal state of the heart 
+
+@Q=What is an "electrolyte"?
+@A=Substances dissolved in water or within cells that conduct current
+@D=The smallest type of nerve
+@D=Destruction of nutrients before they reach the body cells
+@D=The study of nerve cells 
+
+@Q=What is the "endocardium"?
+@A=Inside lining of the heart
+@D=Red blood cells
+@D=Outside lining of the heart
+@D=Middle lining of the heart
+
+@Q=What does "hematology" mean?
+@D=Surgical removal of a lung
+@D=The study of the liver
+@A=The study of blood
+@D=Surgical removal of the liver 
+
+@Q=What is "hyperglycemia"?
+@A=The amount of sugar in the blood is over the expected levels
+@D=The amount of sugar in the blood before eating
+@D=The amount of sugar in the blood is under the expected levels
+@D=A condition that causes blood pressure to fall 
+
+@Q=What does "hysterectomy" mean?
+@D=Above the uterus 
+@D=Surgical removal of the ovaries 
+@A=Surgical removal of the uterus
+@D=Below the ovaries 
+
+@Q=What does "lymphocyte" mean?
+@D=Charged particles dissolved in lymph
+@A=A cell found in lymph
+@D=Hardening of the lymph vessels
+@D=Inflammation of the lymph nodes
+
+@Q=What does "nasopharyngitis" mean?
+@A=Inflammation of the nose and pharynx (throat) 
+@D=Creation of an artificial opening in the pharynx (throat) 
+@D=Visual examination of the nose and pharynx (throat) 
+@D=Pertaining to the nose or pharynx (throat)
+
+@Q=What does "ophthalmologist" mean?
+@D=Swelling of the eyes
+@D=One who studies or practices on the ears
+@D=Inflammation of the ears
+@A=One who studies or practices on the eyes 
+
+@Q=What does "otoscope" mean?
+@D=An instrument used for visual inspection of the eyes 
+@D=A disease of the eyes 
+@A=An instrument used for visual inspection of the ears 
+@D=A disease of the ears 
+
+@Q=What does "psychogenic" mean?
+@A=Caused by sudden, strong emotions
+@D=Any condition of the mind
+@D=An inflammation of the brain
+@D=An enzyme found in the mind
+
+@Q=What is a "sphygmomanometer"?
+@A=An instrument used to measure blood pressure 
+@D=A condition that causes blood pressure to fall
+@D=Written output charting blood pressure
+@D=An increase in blood pressure 
+
+@Q=What does "tachycardia" mean?
+@D=Condition when the heart beats too slow 
+@A=Condition when the heart beats too fast 
+@D=Condition where blood pressure is too high 
+@D=Any disease pertaining to the heart 
+
+@L=Unit 3: Lesson 1: General Abbreviations
+@G=1: “A” Abbreviations
+#(Question16)
+@Q=What is the abbreviation for "Alcoholics Anonymous"?
+@A=AA
+@D=ALA
+@D=AAN
+@D=AAA
+
+#What does the abbreviation "AA" mean?
+#Alcoholics Anonymous
+
+@Q=What does the abbreviation "a.c." mean?
+@A=Before meals
+@D=Alternate cure
+@D=Right ear
+@D=Morning
+
+@Q=What is the abbreviation for "before meals"?
+@A=a.c.
+@D=bf.m.
+@D=b.m.
+@D=a.d.
+
+@Q=What does the abbreviation "AD" or "a.d." mean?
+@A=Right ear
+@D=Each ear
+@D=Left ear
+@D=Neither ear
+
+@Q=What is the abbreviation for "right ear"?
+@A=a.d.
+@D=b.c.
+@D=a.c.
+@D=a.s.
+
+@Q=What does the abbreviation "ad lib" mean?
+@A=Freely
+@D=Right ear
+@D=Morning
+@D=See Library
+
+@Q=What does the abbreviation "ad lib" mean?
+@A=As often as desired
+@D=Right ear
+@D=Morning
+@D=See Library
+
+@Q=What is the abbreviation for "freely", "as often as desired"?
+@A=ad lib
+@D=ac lib
+@D=as lib
+@D=ab lib
+
+@Q=What does the abbreviation "am" or "AM" mean?
+@A=Morning
+@D=Freely
+@D=Left ear
+@D=Before meals
+
+@Q=What is the abbreviation for "morning"?
+@A=am
+@D=pm
+@D=mg
+@D=mm
+
+@Q=What does the abbreviation "AS" or "a.s." mean?
+@A=Left ear
+@D=Anti-statin
+@D=As often as desired
+@D=Before meals
+
+@Q=What is the abbreviation for "left ear"?
+@A=AS
+@D=AD
+@D=BE
+@D=LE
+
+@Q=What is the abbreviation for "left ear"?
+@A=a.s.
+@D=a.d.
+@D=b.e.
+@D=l.e.
+
+@Q=What does the abbreviation "AU" or "a.u." mean?
+@A=Each ear
+@D=Left ear
+@D=Right ear
+@D=Neither ear
+
+@Q=What is the abbreviation for "each ear"?
+@A=AU
+@D=AS
+@D=AD
+@D=AM
+
+@Q=What is the abbreviation for "each ear"?
+@A=a.u.
+@D=a.s.
+@D=a.d.
+@D=a.m.
+
+@G=2: “B” Abbreviations
+#(Question14)
+@Q=What does the abbreviation "BE" mean?
+@A=Barium enema
+@D=Barrett esophagus
+@D=Bone ethmoid
+@D=Bedside edema
+
+@Q=What is the abbreviation for "barium enema"?
+@A=BE
+@D=BRE
+@D=BAE
+@D=BN
+
+@Q=What does the abbreviation "BID, "b.i.d." or "bid" mean?
+@A=Twice a day
+@D=Once a day
+@D=Three time a day
+@D=Every other day
+
+@Q=What is the abbreviation for "twice a day"?
+@A=bid
+@D=tad
+@D=twd
+@D=bib
+
+@Q=What does the abbreviation "BP" mean?
+@A=Blood pressure
+@D=Bilateral pulse
+@D=Bowel puncture
+@D=Biopsy plate
+
+@Q=What is the abbreviation for "blood pressure"?
+@A=BP
+@D=BB
+@D=Bx
+@D=BE
+
+@Q=What does the abbreviation "BR" mean?
+@A=Bedrest
+@D=Blood rate
+@D=Bit removal
+@D=Back Rub
+
+@Q=What is the abbreviation for "bedrest"?
+@A=BR
+@D=BB
+@D=Bx
+@D=BT
+
+@Q=What does the abbreviation "BRP" mean?
+@A=Bathroom privileges
+@D=Bedrest privileges
+@D=Birthright privileges
+@D=Back rub privileges
+
+@Q=What is the abbreviation for "bathroom privileges"?
+@A=BRP
+@D=BP
+@D=BxP
+@D=BR
+
+@Q=What does the abbreviation "BM" mean?
+@A=Bowel movement
+@D=Bed monitor
+@D=Back massage
+@D=Basic measurement
+
+@Q=What is the abbreviation for "bowel movement"?
+@A=BM
+@D=BwM
+@D=BMT
+@D=BMM
+
+@Q=What does the abbreviation "Bx" mean?
+@A=Biopsy
+@D=Bedrest
+@D=Back massage
+@D=Bowel movement
+
+@Q=What is the abbreviation for "biopsy"?
+@A=Bx
+@D=Br
+@D=Bp
+@D=By
+
+@G=3: “C” – “E” Abbreviations
+#(Question17)
+@Q=What does the abbreviation "C" (with a line drawn above the C) mean?
+@A=With
+@D=Cut
+@D=Clean
+@D=Capsule
+
+@Q=What is the abbreviation for "with"?
+@A=C (with a line drawn above the C)
+@D=W (with a line drawn through the W)
+@D=W (with a line drawn under the W)
+@D=C (with a line drawn after the C)
+
+@Q=What does the abbreviation "CA" or "Ca" mean?
+@A=Carcinoma (cancer)
+@D=Capsules
+@D=Caution
+@D=Caffeine
+
+@Q=What is the abbreviation for "carcinoma (cancer)"?
+@A=Ca
+@D=Cc
+@D=Cr
+@D=Cn
+
+@Q=What does the abbreviation "cap." mean?
+@A=Capsule
+@D=Capsulitis
+@D=Capsaicin
+@D=Captioning
+
+@Q=What is the abbreviation for "capsule"?
+@A=cap.
+@D=ca.
+@D=cpl.
+@D=cps.
+
+@Q=What does the abbreviation "disc", "DC" or "d.c." mean?
+@A=Discontinued
+@D=Discharge
+@D=Discordant couple
+@D=Discordance
+
+@Q=What is the abbreviation for "discontinue"?
+@A=DC
+@D=DE
+@D=DT
+@D=DI
+
+@Q=What is the abbreviation for "discontinue"?
+@A=d.c.
+@D=d.e.
+@D=d.t.
+@D=d.i.
+
+@Q=What does the abbreviation "DNR" mean?
+@A=Do not resuscitate
+@D=Do not return
+@D=Do not remove
+@D=Do not radiate
+
+@Q=What is the abbreviation for "do not resuscitate"?
+@A=DNR
+@D=DR
+@D=DRT
+@D=DRx
+
+@Q=What does the abbreviation "Dx" or "dx" mean?
+@A=Diagnosis
+@D=Deficiency
+@D=Defect
+@D=Dioxin
+
+@Q=What is the abbreviation for "diagnosis"?
+@A=Dx
+@D=Di
+@D=Dg
+@D=Ds
+
+@Q=What does the abbreviation "ED" mean?
+@A=Emergency Department
+@D=Ear drum
+@D=Ectodermal Dysplasia
+@D=Epidemic
+
+@Q=What is the abbreviation for "emergency department"?
+@A=ED
+@D=Em
+@D=EDT
+@D=EMT
+
+@Q=What does the abbreviation "ER" mean?
+@A=Emergency room
+@D=External radiation
+@D=Electrolytic respiration
+@D=Enzyme replacement
+
+@Q=What is the abbreviation for "emergency room"?
+@A=ER
+@D=ERM
+@D=EM
+@D=EGR
+
+@G=4: “F” – “J” Abbreviations
+#(Question14)
+@Q=What does the abbreviation "fx" mean?
+@A=Fracture
+@D=Formula
+@D=Facsimile 
+@D=Freckles
+
+@Q=What is the abbreviation for "fracture"?
+@A=fx
+@D=fr
+@D=ft
+@D=fc
+
+@Q=What does the abbreviation "gm" mean?
+@A=Gram
+@D=Gamma
+@D=Gamete
+@D=Genome
+
+@Q=What is the abbreviation for "gram"?
+@A=gm
+@D=gr
+@D=ga
+@D=gg
+
+@Q=What does the abbreviation "gtt" mean?
+@A=Drops
+@D=Gestation
+@D=Step
+@D=Intake
+
+@Q=What is the abbreviation for "drops"?
+@A=gtt
+@D=drp
+@D=dss
+@D=io
+
+#What does the abbreviation "h" mean?
+#What is the abbreviation for "hour"?
+
+#What does the abbreviation "h.s." mean?
+#What is the abbreviation for "hours of sleep (bedtime)"?
+
+@Q=What does the abbreviation "Ht." or "ht" mean?
+@A=Height
+@D=History
+@D=Hepatitis
+@D=Host
+
+@Q=What is the abbreviation for "height"?
+@A=ht
+@D=hg
+@D=hh
+@D=hi
+
+@Q=What does the abbreviation "inj" mean?
+@A=Injection
+@D=Injury
+@D=Ingrown
+@D=Inguinal
+
+@Q=What is the abbreviation for "injection"?
+@A=inj
+@D=int
+@D=inn
+@D=ijt
+
+@Q=What does the abbreviation "I and O", "I/O" mean?
+@A=Intake and output
+@D=Inward and outward
+@D=Inbound and outbound
+@D=Inside and outside
+
+@Q=What is the abbreviation for "intake and output"?
+@A=I/O
+@D=ITO
+@D=I,O
+@D=I-O
+
+@Q=What does the abbreviation "IV" mean?
+@A=Intravenous
+@D=Intervention
+@D=Innervate
+@D=Inner ventricle
+
+@Q=What is the abbreviation for "intravenous"?
+@A=IV
+@D=IN
+@D=IA
+@D=IS
+
+@G=5: “K” – “N” Abbreviations
+#(Question11)
+@Q=What does the abbreviation "K+" or "K" mean?
+@A=Potassium
+@D=Kilometer
+@D=Calorie
+@D=Calcium
+
+@Q=What is the abbreviation for "potassium"?
+@A=K, K+
+@D=P, P+
+@D=Ps, Ps+
+@D=Pt, Pt+
+
+@Q=What does the abbreviation "mg" mean?
+@A=Milligram
+@D=Manganese
+@D=Magnetic
+@D=Mercury
+
+@Q=What is the abbreviation for "milligram"?
+@A=mg
+@D=ml
+@D=mlg
+@D=mm
+
+#What does the abbreviation "N&V" mean?
+#Nausea and vomiting
+#Nuts and vegetables
+
+@Q=What is the abbreviation for "nausea and vomiting"?
+@A=N&V
+@D=NAV
+@D=NV
+@D=NVG
+
+@Q=What does the abbreviation "Na+" or "Na" mean?
+@A=Sodium
+@D=Potassium
+@D=Calcium
+@D=Mercury
+
+@Q=What is the abbreviation for "sodium"?
+@A=Na, Na+
+@D=Ka, Ka+
+@D=So, So+
+@D=Dm, Dm+
+
+@Q=What does the abbreviation "NC" mean?
+@A=Nasal cannula
+@D=Nail care
+@D=Nanny cam
+@D=Nerve cell
+
+@Q=What is the abbreviation for "nasal cannula"?
+@A=NC
+@D=NAC
+@D=NX
+@D=NCL
+
+@Q=What does the abbreviation "NPO" mean?
+@A=Nothing by mouth
+@D=No permanent opening
+@D=Needle point operation
+@D=Normal pressure
+
+@Q=What is the abbreviation for "nothing by mouth"?
+@A=NPO
+@D=NOM
+@D=NBBM
+@D=NM
+
+#What does the abbreviation "NPO p MN" mean?
+#What is the abbreviation for "nothing by mouth past midnight"?
+
+@G=6: “O” – “P” Abbreviations
+#(Question15)
+#What does the abbreviation "oint" or "ung" mean?
+#What is the abbreviation for "ointment"?
+
+@Q=What does the abbreviation "OOB" mean?
+@A=Out of bed
+@D=On-call office backup
+@D=Open on bed
+@D=Overdose on benzene
+
+@Q=What is the abbreviation for "out of bed"?
+@A=OOB
+@D=OFB
+@D=OB
+@D=OUTB
+
+@Q=What does the abbreviation "OTC" mean?
+@A=Over the counter
+@D=Outside the cubical
+@D=Open the curtain
+@D=Out of topical cream
+
+@Q=What is the abbreviation for "over the counter"?
+@A=OTC
+@D=OC
+@D=OVC
+@D=OCR
+
+#What does the abbreviation "oz." mean?
+#Ounce
+#Ozone
+
+@Q=What is the abbreviation for "ounce"?
+@A=oz.
+@D=ou.
+@D=o.
+@D=oc.
+
+#What does the abbreviation "P" mean?
+#What is the abbreviation for "pulse"?
+
+@Q=What does the abbreviation "pc" mean?
+@A=After eating
+@D=Before eating
+@D=Patient contract
+@D=Pulmonary contraction
+
+@Q=What is the abbreviation for "after meals"?
+@A=pc
+@D=am
+@D=ams
+@D=pcs
+
+@Q=What does the abbreviation "pH" mean?
+@A=Power of hydrogen concentrate
+@D=Photo hypogeusia
+@D=Peroxide height measurement
+@D=Pressure hyperacidity 
+
+@Q=What is the abbreviation for "power of hydrogen concentration"?
+@A=pH
+@D=pHC
+@D=PWC
+@D=pH2
+
+@Q=What does the abbreviation "PM" or "p.m." mean?
+@A=Afternoon
+@D=Morning
+@D=Evening
+@D=Night
+
+@Q=What is the abbreviation for "afternoon"?
+@A=PM
+@D=AM
+@D=Noon
+@D=AN
+
+@Q=What does the abbreviation "PO", "po" or "p.o." mean?
+@A=By mouth
+@D=Post-op
+@D=Out of bed
+@D=Once a day
+
+@Q=What is the abbreviation for "by mouth"?
+@A=po
+@D=bm
+@D=pm
+@D=sm
+
+@Q=What does the abbreviation "PRN" mean?
+@A=As needed
+@D=Print
+@D=Every hour
+@D=Practical registered nurse
+
+@Q=What is the abbreviation for "as needed"?
+@A=PRN
+@D=ASN
+@D=QID
+@D=PON
+
+@G=7: “Q” Abbreviations
+#(Question10)
+@Q=What does the abbreviation "q.am." mean?
+@A=Every morning
+@D=All morning
+@D=Start of the morning
+@D=End of the morning
+
+@Q=What is the abbreviation for "every morning"?
+@A=q.am.
+@D=e.am.
+@D=r.am.
+@D=t.am.
+
+@Q=What does the abbreviation "q.h." mean?
+@A=Every hour
+@D=Within an hour
+@D=Next hour
+@D=Last hour
+
+@Q=What is the abbreviation for "every hour"?
+@A=q.h.
+@D=e.h.
+@D=h.h.
+@D=y.h.
+
+@Q=What does the abbreviation "q.i.d." mean?
+@A=Four times a day
+@D=Once a day
+@D=Three times a day
+@D=Twice a day
+
+@Q=What is the abbreviation for "four times a day"?
+@A=q.i.d.
+@D=p.r.t.
+@D=f.t.d.
+@D=4.x.f
+
+@Q=What does the abbreviation "QNS" mean?
+@A=Quantity not sufficient
+@D=Quarterly notes signed
+@D=Quality not set
+@D=Quarantine not supported
+
+@Q=What is the abbreviation for "quantity not sufficient"?
+@A=QNS
+@D=XNS
+@D=QXS
+@D=UQS
+
+@Q=What does the abbreviation "q.s." mean?
+@A=Quantity sufficient
+@D=Quarterly support
+@D=Quality service
+@D=Quiet step
+
+@Q=What is the abbreviation for "quantity sufficient"?
+@A=qs
+@D=xs
+@D=sq
+@D=qq
+
+@G=8: “R” – “S” Abbreviations
+#(Question14)
+#What does the abbreviation "r" or "R" mean?
+#What is the abbreviation for "rectal"?
+
+@Q=What does the abbreviation "Rx" mean?
+@A=Prescription
+@D=Right turn
+@D=Remove 
+@D=Physical therapy
+
+@Q=What is the abbreviation for "prescription"?
+@A=Rx
+@D=Pr
+@D=Rp
+@D=Ps
+
+@Q=What does the abbreviation "S" (with a line drawn above the S) mean?
+@A=Without
+@D=Nothing
+@D=Missing
+@D=Slow
+
+@Q=What is the abbreviation for "without"?
+@A=s
+@D=wot
+@D=wt
+@D=w
+
+@Q=What does the abbreviation "SOB" mean?
+@A=Shortness of breath
+@D=Slightly off balance
+@D=Sit on bench
+@D=Sign on back
+
+@Q=What is the abbreviation for "shortness of breath"?
+@A=SOB
+@D=SXB
+@D=SSB
+@D=SNB
+
+@Q=What does the abbreviation "ss" mean?
+@A=One-half
+@D=Slow step
+@D=Short sighted
+@D=Before seeing
+
+@Q=What is the abbreviation for "one-half"?
+@A=ss
+@D=oh
+@D=02
+@D=hh
+
+@Q=What does the abbreviation "stat" mean?
+@A=Immediately
+@D=Status
+@D=Statins
+@D=Statutory law
+
+@Q=What is the abbreviation for "immediately"?
+@A=stat
+@D=cqt
+@D=imm
+@D=qid
+
+#What does the abbreviation "syr." mean?
+#What is the abbreviation for "syrup"?
+
+@Q=What does the abbreviation "susp." mean?
+@A=Suspension
+@D=Suspicion
+@D=Suture
+@D=Super speller
+
+@Q=What is the abbreviation for "suspension"?
+@A=susp
+@D=ss
+@D=stat
+@D=spn
+
+@Q=What does the abbreviation "sup." or "supp." mean?
+@A=Suppository
+@D=Supper
+@D=Suppress
+@D=Supine
+
+@Q=What is the abbreviation for "suppository"?
+@A=supp
+@D=ssty
+@D=spty
+@D=sopx
+
+@G=9: “T” – “Z” Abbreviations
+#(Question16)
+#What does the abbreviation "T" mean?
+#What is the abbreviation for "temperature"?
+
+@Q=What does the abbreviation "tab." mean?
+@A=Table
+@D=Tablespoon
+@D=Tabs
+@D=Tabun
+
+@Q=What is the abbreviation for "tablet"?
+@A=tab
+@D=tb
+@D=tbl
+@D=tlt
+
+@Q=What does the abbreviation "tbsp." mean?
+@A=Tablespoon
+@D=Tablet splitter
+@D=Tables
+@D=Tabes dosalis
+
+@Q=What is the abbreviation for "tablespoon"?
+@A=tbsp
+@D=tab
+@D=tasp
+@D=tbsn
+
+@Q=What does the abbreviation "TID" or "t.i.d." mean?
+@A=Three times a day
+@D=Multiple days
+@D=This immediate day
+@D=Tilda 
+
+@Q=What is the abbreviation for "three times a day"?
+@A=t.i.d.
+@D=3.x.d.
+@D=t.x.d.
+@D=q.i.d.
+
+@Q=What does the abbreviation "TPR" mean?
+@A=Temperature, pulse and respiration
+@D=Total Prep Record
+@D=Tight Packing Rack
+@D=Telephone pre-recording
+
+@Q=What is the abbreviation for "temperature, pulse, and respirations"?
+@A=TPR
+@D=DPB
+@D=FPX
+@D=3MM
+
+@Q=What does the abbreviation "tsp." mean?
+@A=Teaspoon
+@D=Top space
+@D=Table separation
+@D=Tourniquet setting poll
+
+@Q=What is the abbreviation for "teaspoon"?
+@A=tsp
+@D=teasp
+@D=tspn
+@D=tsn
+
+@Q=What does the abbreviation "Tx" mean?
+@A=Treatment
+@D=Transfer
+@D=Prescribe
+@D=Left turn
+@D=Translate
+
+@Q=What is the abbreviation for "treatment"?
+@A=Tx
+@D=Tm
+@D=Tt
+@D=Tr
+
+@Q=What does the abbreviation "VS" mean?
+@A=Vital signs
+@D=Volatile solid
+@D=Verbal sensitive
+@D=Vertical stich
+
+@Q=What is the abbreviation for "vital signs"?
+@A=VS
+@D=VV
+@D=VT
+@D=VQ
+
+
+@Q=What does the abbreviation "W/C" or "w/c" mean?
+@A=Wheelchair
+@D=Wrong chart
+@D=With concern
+@D=Written correctly 
+
+@Q=What is the abbreviation for "wheelchair"?
+@A=w/c
+@D=wch
+@D=whx
+@D=whcr
+
+@L=Unit 3: Lesson 2: Body System Abbreviations
+@G=1: Skeletal System Abbreviation
+#(Question10)
+@Q=What does the abbreviation "Ca" mean?
+@A=Calcium
+@D=Carpal
+@D=Cartilage
+@D=Cranium
+
+@Q=What is the abbreviation for "Calcium"?
+@A=Ca
+@D=Cc
+@D=CL
+@D=Cm
+
+#What does the abbreviation "Ortho" mean?
+#What is the abbreviation for "Orthopedics"?
+
+@Q=What does the abbreviation "TMJ" mean?
+@A=Temporomandibular joint 
+@D=Temporary movement-control jacket
+@D=Topical medicine jell
+@D=Tibiametacarpal adjustment
+
+@Q=What is the abbreviation for "Temporomandibular joint"?
+@A=TMJ
+@D=TPJ
+@D=TBJ
+@D=TEJ
+
+@Q=What does the abbreviation "RA" mean?
+@A=Rheumatoid arthritis
+@D=Right arm
+@D=Rotation arch
+@D=Radial adaption
+
+@Q=What is the abbreviation for "Rheumatoid arthritis"?
+@A=RA
+@D=RHA
+@D=RDA
+@D=RT
+
+@Q=What does the abbreviation "ROM" mean?
+@A=Range of motion
+@D=Retro-orbital movement
+@D=Repair of mandible
+@D=Rupture of metatarsal
+
+@Q=What is the abbreviation for "Range of motion"?
+@A=ROM
+@D=RGM
+@D=RM
+@D=RMN
+
+@Q=What does the abbreviation "CT" mean?
+@A=Computed tomography
+@D=Clavicle tear
+@D=Cervical tension
+@D=Carpal-tunnel test
+
+@Q=What is the abbreviation for "Computed tomography"?
+@A=CT
+@D=CTY
+@D=CTG
+@D=CC
+
+@G=2: Muscular System Abbreviation
+#(Question8)
+@Q=What does the abbreviation "EMG" mean?
+@A=Electromyography
+@D=Essential monoclonal gammopathy
+@D=Extended muscle graph
+@D=Eye movement gauge
+
+@Q=What is the abbreviation for "Electromyography"?
+@A=EMG
+@D=EGY
+@D=ELY
+@D=ELG
+
+@Q=What does the abbreviation "IM" mean?
+@A=Intramuscular
+@D=Internal medication
+@D=Index muscle management
+@D=Induced movement
+
+@Q=What is the abbreviation for "Intramuscular"?
+@A=IM
+@D=ITM
+@D=IC
+@D=IR
+
+@Q=What does the abbreviation "ACL" mean?
+@A=Anterior cruciate ligament
+@D=Anterior clavicular line
+@D=Adult cutaneous lunge
+@D=Achille’s connective lining
+
+@Q=What is the abbreviation for "Anterior cruciate ligament"?
+@A=ACL
+@D=AL
+@D=ANL
+@D=ARL
+
+@Q=What does the abbreviation "MRI" mean?
+@A=Magnetic resonance imaging
+@D=Muscle retention index
+@D=Maximus rectus iliopsoas
+@D=Movement Repetitive illness
+
+@Q=What is the abbreviation for "Magnetic resonance imaging"?
+@A=MRI
+@D=IMG
+@D=MIG
+@D=MGN
+	
+@G=3: Nervous System Abbreviation
+#(Question14)
+@Q=What does the abbreviation "CNS" mean?
+@A=Central nervous system
+@D=Cerebonasal seepage
+@D=Community of Neurological Specialists
+@D=Coded nervous system
+
+
+@Q=What is the abbreviation for "Central nervous system"?
+@A=CNS
+@D=CSYS
+@D=CES
+@D=CNC
+
+@Q=What does the abbreviation "EEG" mean?
+@A=Electroencephalogram 
+@D=Essential monoclonal gammopathy
+@D=Extended muscle graph
+@D=Eye movement gauge
+
+@Q=What is the abbreviation for "Electroencephalogram"?
+@A=EMG
+@D=EGY
+@D=ELY
+@D=ELG
+
+@Q=What does the abbreviation "CSF" mean?
+@A=Cerebrospinal fluid
+@D=Coronary sinus fluid
+@D=Central spinal flow
+@D=Cranial stable fixture
+
+@Q=What is the abbreviation for "Cerebrospinal fluid"?
+@A=CSF
+@D=CBF
+@D=CLF
+@D=CPL
+
+@Q=What does the abbreviation "CVD" mean?
+@A=Cerebrovascular disease
+@D=Cervical vertebrae disruption
+@D=Central venous disorder
+@D=Cord vertical deviation
+
+@Q=What is the abbreviation for "Cerebrovascular disease"?
+@A=CVD
+@D=CBD
+@D=CLD
+@D=CRD
+
+@Q=What does the abbreviation "CVA" mean?
+@A=Cerebrovascular accident
+@D=Cervical vertebrae alternation
+@D=Central venous attachment
+@D=Cord vertical alignment
+
+@Q=What is the abbreviation for "Cerebrovascular accident" (stroke)?
+@A=CVA
+@D=CBA
+@D=CLA
+@D=CRA
+
+@Q=What does the abbreviation "MS" mean?
+@A=Multiple sclerosis
+@D=Morphine sulfate
+@D=Mitral stenosis
+@D=Motion sickness 
+
+@Q=What is the abbreviation for "Multiple sclerosis"?
+@A=MS
+@D=MSS
+@D=MC
+@D=MCC
+
+@Q=What does the abbreviation "TIA" mean?
+@A=Transient ischemic attack
+@D=T-cell intracellular antigen
+@D=Tumor-Induced alignment
+@D=Thin layer angiogenesis
+
+@Q=What is the abbreviation for "Transient ischemic attack"?
+@A=TIA
+@D=TAK
+@D=TTA
+@D=TMA
+
+@G=4: Sensory System Abbreviation
+#(Question10)
+@Q=What does the abbreviation "OD" mean?
+@A=Right eye
+@D=Left eye
+@D=Both eyes
+@D=Eye development
+
+@Q=What does the abbreviation "OD" mean?
+@A=Oculus dexter 
+@D=Oral development
+@D=Occipital dysplasia
+@D=Open drop
+
+@Q=What is the abbreviation for "Right eye"?
+@A=OD
+@D=RE
+@D=RD
+@D=OE
+
+
+@Q=What does the abbreviation "OS" mean?
+@A=Left eye
+@D=Right eye
+@D=Both eyes
+@D=Eye development
+
+@Q=What does the abbreviation "OS" mean?
+@A=Oculus sinister
+@D=Orthopedic surgeon
+@D=Organ specific
+@D=Oral suture 
+
+@Q=What is the abbreviation for "" (left eye)?
+@A=OS
+@D=LE
+@D=LS
+@D=OE
+
+#What does the abbreviation "PERRLA" mean?
+#What is the abbreviation for "Pupils equal, round, reactive to light and accommodation"?
+
+#What does the abbreviation "EENT" mean?
+#What is the abbreviation for "Eyes, ears, nose and throat"?
+
+@Q=What does the abbreviation "ENT" mean?
+@A=Ears, nose and throat
+@D=Embryonic nervous tissue
+@D=Effusion nitrogen test
+@D=Emergency neck trauma 
+
+@Q=What is the abbreviation for "Ears, nose and throat"?
+@A=ENT
+@D=ONT
+@D=OST
+@D=EST
+
+@Q=What does the abbreviation "OM" mean?
+@A=Otitis media
+@D=Ophthalmic migraine
+@D=Orthopedic medicine
+@D=Ocular motor
+
+@Q=What is the abbreviation for "Otitis media"?
+@A=OM
+@D=OT
+@D=OS
+@D=OD
+
+@G=5: Cardiovascular System Abbreviation
+#(Question16)
+#What does the abbreviation "CABG" mean?
+#What is the abbreviation for "Coronary artery bypass graft"?
+
+@Q=What does the abbreviation "CCU" mean?
+@A=Coronary care unit
+@D=Critical closing unit
+@D=Chief complaint unit
+@D=Chronic cancer unit
+
+@Q=What is the abbreviation for "Coronary care unit"?
+@A=CCU
+@D=CYU
+@D=CKU
+@D=COU
+
+@Q=What does the abbreviation "ECG" mean?
+@A=Electrocardiogram
+@D=Estimated care guide
+@D=Endoscope graph
+@D=Echocardiogram
+
+@Q=What is the abbreviation for "Electrocardiogram"?
+@A=EKG
+@D=ELG
+@D=ECM
+@D=EDM
+
+@Q=What is the abbreviation for "Electrocardiogram"?
+@A=ECG
+@D=ELG
+@D=ECM
+@D=EDM
+
+@Q=What does the abbreviation "MI" mean?
+@A=Myocardial infarction
+@D=Measles infection
+@D=Motor instability
+@D=Metabolic index
+
+@Q=What is the abbreviation for "Myocardial infarction" (heart attack)?
+@A=MI
+@D=MF
+@D=MY
+@D=MN
+
+@Q=What is the abbreviation for "heart attack"?
+@A=MI
+@D=HA
+@D=HX
+@D=MK
+
+@Q=What does the abbreviation "ECHO" mean?
+@A=Echocardiogram
+@D=Echovirus
+@D=Echothiogram
+@D=Echothiophate
+
+@Q=What is the abbreviation for "Echocardiogram"?
+@A=ECHO
+@D=ECG
+@D=EKG
+@D=EDG
+
+@Q=What does the abbreviation "ASHD" mean?
+@A=Arteriosclerotic heart disease
+@D=Atrioseptal heart diagnosis
+@D=Acute stress heart disease
+@D=Aortic sufficiency health diagnosis
+
+@Q=What is the abbreviation for "Arteriosclerotic heart disease"?
+@A=ASHD
+@D=AHD
+@D=ACHD
+@D=ARD
+
+@Q=What does the abbreviation "CHD" mean?
+@A=Coronary heart disease
+@D=Congenital hip dislocation
+@D=Classical Hobgkin disease
+@D=Chronic hemodialysis
+
+@Q=What is the abbreviation for "Coronary heart disease"?
+@A=CHD
+@D=CYHD
+@D=CCD
+@D=COHD
+
+@Q=What does the abbreviation "CHF" mean?
+@A=Congestive heart failure
+@D=Carbohydrate fatigue 
+@D=Chronic fibrosis
+@D=Critical hydrolysis function
+
+@Q=What is the abbreviation for "Congestive heart failure"?
+@A=CHF
+@D=CGF
+@D=CHX
+@D=CCH
+
+@G=6: Lymphatic System Abbreviation
+#(Question10)
+@Q=What does the abbreviation "AIDS" mean?
+@A=Acquired immunodeficiency syndrome
+@D=Association of Industrial Dental Surgeons
+@D=Abnormal lactate digestive system
+@D=Anatomy imaging digital sensor
+
+@Q=What is the abbreviation for "Acquired immunodeficiency syndrome"?
+@A=AIDS
+@D=AIS
+@D=ADDS
+@D=AQRD
+
+@Q=What does the abbreviation "HD" mean?
+@A=Hodgkin’s disease
+@D=Hansen disease
+@D=Heart disease
+@D=Hepatosis disease
+
+@Q=What is the abbreviation for "Hodgkin’s disease"?
+@A=HD
+@D=HGD
+@D=HDD
+@D=HO
+
+@Q=What does the abbreviation "HIV" mean?
+@A=Human immunodeficiency virus
+@D=Human immunization virus
+@D=Human immunoglobin virus
+@D=Human incubation virus
+
+@Q=What is the abbreviation for "Human immunodeficiency virus"?
+@A=HIV
+@D=HMV
+@D=HMN
+@D=HUV
+
+@Q=What does the abbreviation "CMV" mean?
+@A=Cytomegalovirus
+@D=Controlled mandatory ventilation
+@D=Continuous mist vaporizer
+@D=Compound membrane vessel
+
+@Q=What is the abbreviation for "Cytomegalovirus"?
+@A=CMV
+@D=CYV
+@D=CGV
+@D=CTV
+
+@Q=What does the abbreviation "HSV" mean?
+@A=Herpes simplex virus
+@D=Human sinus syndrome
+@D=Hyper sensitive valve
+@D=High selective vagotomy
+
+@Q=What is the abbreviation for "Herpes simplex virus"?
+@A=HSV
+@D=HXV
+@D=HPV
+@D=HEP
+
+@G=7: Respiratory System Abbreviation
+#(Question9)
+@Q=What does the abbreviation "COPD" typically mean?
+@A=Chronic obstructive pulmonary disease
+@D=Care of patient designation
+@D=Continuity of professional development
+@D=Children’s outpatient department
+
+@Q=What is the abbreviation for "Chronic obstructive pulmonary disease"?
+@A=COPD
+@D=COP
+@D=CHOP
+@D=CHOPD
+
+#What does the abbreviation "CXR" mean?
+#What is the abbreviation for "Chest X-ray"?
+
+@Q=What does the abbreviation "ICU" mean?
+@A=Intensive care unit
+@D=Internal care unit
+@D=Intermediate care unit
+@D=Immunological care unit
+
+@Q=What is the abbreviation for "Intensive care unit"?
+@A=ICU
+@D=ITCU
+@D=INCU
+@D=IKU
+
+@Q=What does the abbreviation "TB" mean? Noisy ones
+@A=Tuberculosis
+@D=Tooth brush
+@D=Tub bath
+@D=Total body
+
+@Q=What is the abbreviation for "Tuberculosis"?
+@A=TB
+@D=TC
+@D=TS
+@D=TL
+
+@Q=What does the abbreviation "URI" mean?
+@A=Upper respiratory infection
+@D=Unity rate indication
+@D=Ulcer ratio index
+@D=Ultrafast radio imaging
+
+@Q=What is the abbreviation for "Upper respiratory infection"?
+@A=URI
+@D=UPI
+@D=UXI
+@D=UTI
+
+@Q=What does the abbreviation "ABG" mean?
+@A=Arterial blood gas
+@D=Alveolar bone graft
+@D=Anti-body globulin
+@D=Autogenous binding group
+
+#What is the abbreviation for "Arterial blood gas"?
+
+
+@G=8: Digestive System Abbreviation
+#(Question7)
+@Q=What does the abbreviation "GI" mean?
+@A=Gastrointestinal
+@D=Globin insulin
+@D=Glucose index
+@D=Gingivitis
+
+@Q=What is the abbreviation for "Gastrointestinal"?
+@A=GI
+@D=GA
+@D=GS
+@D=GL
+
+@Q=What does the abbreviation "EGD" typical mean?
+@A=Esophagogastroduodenoscopy
+@D=Extraglomerular Immune Deposits
+@D=Endoglucanase D
+@D=Every Oesophago-Gastro-Duodenoscopy
+
+@Q=What is the abbreviation for "Esophagogastroduodenoscopy"?
+@A=EGD
+@D=ESG
+@D=EPY
+@D=EDS
+
+@Q=What does the abbreviation "NG" mean?
+@A=Nasogastric
+@D=New growth
+@D=Nitroglycerin
+@D=Nodose given
+
+@Q=What is the abbreviation for "Nasogastric"?
+@A=NG
+@D=NA
+@D=NT
+@D=NS
+
+@Q=What does the abbreviation "TPN" mean?
+@A=Total parenteral nutrition
+@D=Targeted protein nourishment
+@D=Transient protein nucleotide
+@D=Trauma patient nutrition
+
+#What is the abbreviation for "Total parenteral nutrition"?
+
+@G=9: Urinary System Abbreviation
+#(Question17)
+#What does the abbreviation "TURP mean?
+
+@Q=What is the abbreviation for "Transurethral resection of prostate"?
+@A=TURP
+@D=TRRP
+@D=TRP
+@D=TRPT
+
+@Q=What does the abbreviation "BPH mean?
+@A=Benign prostatic hypertrophy
+@D=Blood pressure hypertension
+@D=Bilateral pulmonary health
+@D=Beats per hour
+
+@Q=What is the abbreviation for "Benign prostatic hypertrophy"?
+@A=BPH
+@D=BGN
+@D=BTH
+@D=BGY
+
+@Q=What does the abbreviation "UTI" mean?
+@A=Urinary tract infection
+@D=Urinay tryspin inhibitor
+@D=Untreated tract infection
+@D=Upper tract infection
+
+@Q=What is the abbreviation for "Urinary tract infection"?
+@A=UTI
+@D=UTX
+@D=UTN
+@D=UTF
+
+@Q=What does the abbreviation "UA" mean?
+@A=Urinalysis
+@D=Upper airway
+@D=Uric acid
+@D=Ulceractive
+
+@Q=What is the abbreviation for "Urinalysis"?
+@A=UA
+@D=UR
+@D=UY
+@D=US
+
+@Q=What does the abbreviation "BUN" mean?
+@A=Blood urea nitrogen
+@D=Burning urination
+@D=Broken upper nasal
+@D=Baseline usage notes
+
+@Q=What is the abbreviation for "Blood urea nitrogen"?
+@A=BUN
+@D=BUG
+@D=BLUNT
+@D=BAG
+
+@Q=What does the abbreviation "ADH" mean?
+@A=Antidiuretic hormone
+@D=Adult dental health
+@D=Alcohol dehydration
+@D=Alanine dehydrogenase
+
+@Q=What is the abbreviation for "Antidiuretic hormone"?
+@A=ADH
+@D=ATH
+@D=ACH
+@D=ANH
+
+@Q=What does the abbreviation "IVP typical mean?
+@A=Intravenous pyelogram
+@D=Initial visit period
+@D=Interventricular pressure
+@D=In vitro production
+
+@Q=What is the abbreviation for "Intravenous pyelogram"?
+@A=IVP
+@D=INP
+@D=ITP
+@D=IPM
+
+@Q=What does the abbreviation "PSA" mean?
+@A=Prostate-specific antigen
+@D=Posterior septal artery
+@D=Persistent spinal alteration
+@D=Pressure sensitive adhesion
+
+@Q=What is the abbreviation for "Prostate-specific antigen"?
+@A=PSA
+@D=PA
+@D=PTA
+@D=PAGE
+
+@Q=What does the abbreviation "PKU" mean?
+@A=Phenylketonuria
+@D=Pacemaker utility
+@D=Parkinson unit
+@D=Pediatric kidney ulceration
+
+@Q=What is the abbreviation for "Phenylketonuria"?
+@A=PKU
+@D=PYT
+@D=PHA
+@D=PLT
+
+@G=10: Endocrine System Abbreviation
+#(Question15)
+@Q=What does the abbreviation "BMR" mean?
+@A=Basal metabolic rate
+@D=Best motor response
+@D=Bacteria mutation resistance
+@D=Bone marrow restoration
+
+@Q=What is the abbreviation for "Basal metabolic rate"?
+@A=BMR
+@D=BAR
+@D=BRR
+@D=BBR
+
+@Q=What does the abbreviation "DM" mean?
+@A=Diabetes mellitus
+@D=Disease management
+@D=Diastolic mellitus
+@D=Dose modification
+
+@Q=What is the abbreviation for "Diabetes mellitus"?
+@A=DM
+@D=Db
+@D=DS
+@D=DI
+
+@Q=What does the abbreviation "FBS" mean?
+@A=Fasting blood sugar
+@D=Foreign body sensitivity
+@D=Fetal blood signal
+@D=Fanconi-Barrel Syndrome
+
+@Q=What is the abbreviation for "Fasting blood sugar"?
+@A=FBS
+@D=FGS
+@D=FAS
+@D=FTS
+
+@Q=What does the abbreviation "IDDM" mean?
+@A=Type 1 diabetes
+@D=Shock induced diabetes
+@D=Type 2 diabetes
+@D=Non-insulin-dependent diabetes
+
+@Q=What does the abbreviation "IDDM" mean?
+@A=Insulin-dependent diabetes mellitus 
+@D=Infectious disease and delivery maintenance
+@D=Intravenous drainage deletion measurement
+@D=Infants of drug dependent mother
+
+@Q=What is the abbreviation for "Insulin-dependent diabetes mellitus" (type 1 diabetes)?
+@A=IDDM
+@D=IDM
+@D=INDM
+@D=ISDM
+
+@Q=What does the abbreviation "TSH" mean?
+@A=Thyroid-stimulating hormone
+@D=Transient synovitis of the hip
+@D=Traumatic spine hemorrhage 
+@D=Temporary systolic murmur
+
+@Q=What is the abbreviation for "Thyroid-stimulating hormone"?
+@A=TSH
+@D=TH
+@D=TYH
+@D=TDH
+
+@Q=What does the abbreviation "ACTH" mean?
+@A=Adrenocorticotropic hormone
+@D=Autophor ceramic total hip
+@D=Advanced cardiac treatment hormone
+@D=Abnormal chronic tension headache
+
+@Q=What is the abbreviation for "Adrenocorticotropic hormone"?
+@A=ACTH
+@D=ATTH
+@D=ARTH
+@D=AOTH
+
+@Q=What does the abbreviation "GTT" mean?
+@A=Glucose tolerance test
+@D=Glaucoma tension treatment
+@D=Geriatric tendon therapy
+@D=Gastrointestinal thiamine tumor
+
+@Q=What is the abbreviation for "Glucose tolerance test"?
+@A=GTT
+@D=GLTT
+@D=GTST
+@D=GCT
+
+@G=11: Reproductive System Abbreviation
+#(Question16)
+#What does the abbreviation "AB" mean?
+#What is the abbreviation for "Abortion"?
+
+@Q=What does the abbreviation "AFP" mean?
+@A=Alpha-fetoprotein
+@D=Anterior faucial pillar
+@D=Anti-fungal protein
+@D=Acute forebrain pathway
+
+@Q=What is the abbreviation for "Alpha-fetoprotein"?
+@A=AFP
+@D=ALF
+@D=AAF
+@D=AOP
+
+@Q=What does the abbreviation "BSE" mean?
+@A=Breast self-exam
+@D=Brain-stem electroencephalograph
+@D=Bile salt secretion
+@D=Basic skill evaluation
+
+@Q=What is the abbreviation for "Breast self-exam"?
+@A=BSE
+@D=BTS
+@D=BRE
+@D=BSX
+
+@Q=What does the abbreviation "D&C" mean?
+@A=Dilation and curettage 
+@D=Diagnostic and cure
+@D=Discontinue and contain 
+@D=Direct and consensual
+
+@Q=What is the abbreviation for "Dilation and curettage"?
+@A=D&C
+@D=D/C
+@D=DC
+@D=DAC
+
+@Q=What does the abbreviation "GU" mean?
+@A=Genitourinary
+@D=Gastric uptake
+@D=Glycogenic unit
+@D=Genetic ulcer
+
+@Q=What is the abbreviation for "Genitourinary"?
+@A=GU
+@D=GT
+@D=GY
+@D=GN
+
+@Q=What does the abbreviation "GYN" mean?
+@A=Gynecology
+@D=Glyconitrate
+@D=Gyrus nerve
+@D=Gymnophobia
+
+@Q=What is the abbreviation for "Gynecology"?
+@A=GYN
+@D=GNY
+@D=GCY
+@D=GLY
+
+@Q=What does the abbreviation "STD" mean?
+@A=Sexually-transmitted disease
+@D=Short term disability
+@D=Standard test dose
+@D=Skin tumor defect
+
+#What is the abbreviation for "Sexually-transmitted disease"?
+
+@Q=What does the abbreviation "C-section" mean?
+@A=Cesarean section
+@D=Coronary section
+@D=Critical section
+@D=Cardiac section
+
+#What is the abbreviation for "Cesarean section"?
+
+@Q=What does the abbreviation "EDC" mean?
+@A=Expected date of confinement
+@D=Emergency decontamination center
+@D=Epidermal derived compound
+@D=Endocrine disrupter compound
+
+@Q=What is the abbreviation for "Expected date of confinement" (birth)?
+@A=EDC
+@D=EXD
+@D=EDOC
+@D=EXDC
+
+@Q=What does the abbreviation "LMP" mean?
+@A=Last menstrual period
+@D=Latent membrane potential
+@D=Low molecular protein 
+@D=Left lumbar posterior
+
+@Q=What is the abbreviation for "Last menstrual period"?
+@A=LMP
+@D=LSTP
+@D=LLP
+@D=LSP
+
+@L=Unit 4: Lesson 1: Body Planes and Directions
+@G=1: General Body Plane Information
+#(Question3)
+@Q=What is a body plane?
+@A=A directional term that describes a section of the body
+@D=A way to describe a body part in relation to a second body part
+@D=A method of abbreviation for body organs
+@D=The position in which a patient must lie
+
+@Q=The correct anatomical position is the body upright and facing with:
+@A=The arms down at the sides and palms facing forward
+@D=The arms down at the sides and palms facing backward
+@D=The arms raised the sides and palms facing forward
+@D=The arms raised at the sides and palms facing backward
+
+@Q=When in the correct anatomical position, the palms of the hand are facing:
+@A=Forward
+@D=Backward
+@D=In toward the body
+@D=Out away from the body
+
+@G=2: Other Directional Information
+#(Question2)
+@Q=Which directional term defines body parts towards the point of attachment?
+@A=Proximal
+@D=Distal
+@D=Frontal
+@D=Dorsal
+
+@Q=Which directional term defines body parts distant the point of attachment?
+@D=Proximal
+@A=Distal
+@D=Frontal
+@D=Dorsal
+
+@G=3: Transverse Body Plane
+#(Question8)
+
+#(Image 1)
+
+@Q=Where is the transverse body plane?
+@D=A
+@D=B
+@A=C
+@Image=Image 1
+@Random=No
+
+@Q=Which body plan divides the body horizontally into a top and bottom half?
+@A=Transverse
+@D=Midsagittal
+@D=Frontal
+
+@Q=Body parts above other body parts are referred to as:
+@A=Superior
+@D=Inferior
+@D=Transverse
+@D=Caudal
+
+@Q=Body parts below other body parts are referred to as: 
+@D=Superior
+@A=Inferior
+@D=Cranial
+@D=Transverse
+
+@Q=Body parts towards the head are referred to as: 
+@D=Transverse
+@D=Inferior
+@A=Cranial
+@D=Caudal
+
+@Q=Body parts towards the lower end of the spine or feet are referred to as: 
+@D=Superior
+@D=Transverse
+@D=Cranial
+@A=Caudal
+
+@Q=Which of these body parts is superior to the shoulders? 
+@A=Neck
+@D=Foot
+@D=Wrist
+@D=Elbow
+
+@Q=The cranial nerves would be found in which part of the body?
+@A=Head
+@D=Arm
+@D=Foot
+@D=Spine
+
+@G=4: Midsagittal Plane
+#(Question12)
+
+#(Image 2)
+
+@Q=Where is the midsagittal body plane?
+@A=A
+@D=B
+@D=C
+@Image=Image 2
+@Random=No
+
+@Q=Which body plan divides the body vertically into a left and right half?
+@D=Transverse
+@A=Midsagittal
+@D=Frontal
+
+@Q=What is another name for the midsagittal planemidsagittal plane midsagittal?midsagittal midsagittal midsagittal
+@A=Midline
+@D=Coronal plane
+@D=Transverse plane
+@D=Medial plane
+
+@Q=What is another name for the midsagittal planemidsagittal plane midsagittal?midsagittal midsagittal midsagittal
+@A=Median plane
+@D=Coronal plane
+@D=Transverse plane
+@D=Medial plane
+
+@Q=Body parts towards the midsagittal plane in relationship to other body parts are called:
+@A=Medial
+@D=Lateral
+@D=Posterior
+@D=Proximal
+
+@Q=Body parts away from the midsagittal plane in relationship to other body parts are called:
+@D=Medial
+@A=Lateral
+@D=Dorsal
+@D=Distal
+
+@Q=In relationship to the midsagittal plane, the eyes are _______ to the ears.
+@A=Medial
+@D=Lateral
+@D=Ventral
+@D=Frontal
+
+@Q=In relationship to the midsagittal plane, the eyes are _______ to the nose.
+@D=Medial
+@A=Lateral
+@D=Anterior
+@D=Dorsal
+
+@Q=In relationship to the midsagittal plane, the big toe is _______ to the little toe.
+@A=Medial
+@D=Lateral
+@D=Dorsal
+@D=Proximal
+
+@Q=In relationship to the midsagittal plane, the little toe is _______ to the big toe.
+@D=Medial
+@A=Lateral
+@D=Posterior
+@D=Distal
+
+@Q=In relationship to the midsagittal plane, the shoulder is _______ to the neck.
+@D=Medial
+@A=Lateral
+@D=Ventral
+@D=Dorsal
+
+@Q=In relationship to the midsagittal plane, the neck is _______ to the shoulder.
+@A=Medial
+@D=Lateral
+@D=Dorsal
+@D=Frontal
+
+@G=5: Frontal Body Plane
+#(Question9)
+
+#(Image 3)
+
+@Q=Where is the frontal body plane?
+@D=A
+@A=B
+@D=C
+@Image=Image 3
+@Random=No
+
+@Q=Which body plan divides the body vertically into a front and back half?
+@D=Transverse
+@D=Midsagittal
+@A=Frontal
+
+@Q=What is another name for the frontal plane?
+@A=Coronal plane
+@D=Transverse plane
+@D=Midline
+@D=Median plane
+
+@Q=In relationship to the frontal plane, body parts towards the front are called:
+@A=Ventral
+@D=Medial
+@D=Lateral
+@D=Posterior
+
+@Q=In relationship to the frontal plane, body parts towards the front are called:
+@A=Anterior
+@D=Medial
+@D=Lateral
+@D=Dorsal
+
+@Q=In relationship to the frontal plane, body parts towards the back are called:
+@A=Dorsal
+@D=Medial
+@D=Lateral
+@D=Anterior
+
+@Q=In relationship to the frontal plane, body parts towards the back are called:
+@A=Posterior
+@D=Medial
+@D=Lateral
+@D=Ventral
+
+@Q=In relationship to the frontal plane, which body part is dorsal to your eyes?
+@A=Ears
+@D=Lips
+@D=Chin
+@D=Nose
+
+@Q=In relationship to the frontal plane, which body part is ventral to your eyes?
+@A=Nose
+@D=Ears
+@D=Shoulder midsagittal plane
+@D=Calf midsagittal plane
+@L=Unit 4: Lesson 2: Body Captivities
+@G=1: General Body Cavity
+#(Question3)
+@Q=What is a space within the body that contains vital organs called?
+@A=Body cavity
+@D=Body plane
+@D=Body direction
+@D=Body location
+
+
+
+#(Image 4)
+
+@Q=Where are the dorsal body cavities located?
+@A=A
+@D=C
+@D=E
+@D=F
+@Image=Image 4
+@Random=No
+
+@Q=Where are the ventral body cavities located?
+@D=A
+@D=C
+@D=E
+@A=F
+@Image=Image 4
+@Random=No
+
+@G=2: Dorsal Body Cavity
+#(Question6)
+@Q=Which of these body cavities is located on the front side of the body?
+@A=Ventral
+@D=Dorsal
+@D=Spinal
+@D=Cranial
+
+@Q=Which of these body cavities is a long, continuous cavity located on the back of the body?
+@A=Dorsal
+@D=Ventral
+@D=Abdominal
+@D=Pelvic
+
+@Q=Which of the following is part of the dorsal cavity?
+@A=Spinal cavity
+@D=Thoracic cavity
+@D=Abdominal cavity
+@D=Pelvic cavity
+
+@Q=Which cavity contains the brain?
+@A=Cranial
+@D=Spinal
+@D=Thoracic
+@D=Abdominal
+
+
+#(Image 5)
+
+@Q=Where is the cranial cavity located?
+@D=B
+@D=C
+@D=D
+@A=E
+@Image=Image 5
+@Random=No
+
+@Q=Where is the spinal cavity located?
+@D=B
+@A=C
+@D=D
+@D=E
+@Image=Image 5
+@Random=No
+
+@G=3: Ventral Body Cavity
+#(Question=22)
+@Q=Which of the following is part of the ventral cavity?
+@D=Cranial cavity
+@D=Spinal cavity
+@A=Thoracic cavity
+@D=Nasal cavity
+
+@Q=Which of these body cavities is located on the front side of the body?
+@D=Dorsal
+@A=Ventral
+@D=Spinal
+@D=Cranial
+
+@Q=Which of these cavities is also known as the chest cavity?
+@D=Pelvic
+@D=Spinal
+@D=Cranial
+@A=Thoracic
+
+@Q=Which of the following is contained in the thoracic cavity?
+@A=Trachea
+@D=Pancreas
+@D=Spleen
+@D=Liver
+
+@Q=Which of the following is contained in the thoracic cavity?
+@A=Esophagus
+@D=Gallbladder
+@D=Reproductive organs
+@D=Stomach
+
+@Q=Which of the following is contained in the thoracic cavity?
+@A=Bronchi
+@D=Liver
+@D=Bladder
+@D=Pancreas
+
+@Q=Which of the following is contained in the thoracic cavity?
+@A=Lungs
+@D=Most of the large intestine
+@D=Rectum
+@D=Bladder
+
+@Q=Which of the following is contained in the thoracic cavity?
+@A=Heart
+@D=Small Intestine
+@D=Rectum
+@D=Stomach
+
+@Q=Which of the following is contained in the thoracic cavity?
+@A=Major blood vessels
+@D=Stomach
+@D=Spleen
+@D=Liver
+
+@Q=Which of the following is contained in the abdominal cavity?
+@A=Stomach
+@D=Major blood vessels
+@D=Bladder
+@D=Bronchi
+
+@Q=Which of the following is contained in the abdominal cavity?
+@A=Small Intestine
+@D=Heart
+@D=Rectum
+@D=Major blood vessels
+
+@Q=Which of the following is contained in the abdominal cavity?
+@A=Most of the large intestine
+@D=Lungs
+@D=Bladder
+@D=Heart
+
+@Q=Which of the following is contained in the abdominal cavity?
+@A=Liver
+@D=Bronchi
+@D=Rectum
+@D=Esophagus
+
+@Q=Which of the following is contained in the abdominal cavity?
+@A=Gallbladder
+@D=Esophagus
+@D=Bladder
+@D=Trachea
+
+@Q=Which of the following is contained in the abdominal cavity?
+@A=Pancreas
+@D=Trachea
+@D=Bladder
+@D=Bronchi
+
+@Q=Which of the following is contained in the abdominal cavity?
+@A=Spleen
+@D=Heart
+@D=Reproductive organs
+@D=Lungs
+
+@Q=Which of the following is contained in the pelvic cavity?
+@A=Reproductive organs
+@D=Pancreas
+@D=Heart
+@D=Small Intestine
+
+@Q=Which of the following is contained in the pelvic cavity?
+@A=Bladder
+@D=Spleen
+@D=Bronchi
+@D=Liver
+
+@Q=Which of the following is contained in the pelvic cavity?
+@A=Rectum
+@D=Trachea
+@D=Gallbladder
+@D=Most of the large intestine
+
+
+#(Image 6)
+
+@Q=Where is the thoracic cavity located?
+@D=B
+@D=D
+@D=E
+@A=G
+@Image=Image 6
+@Random=No
+
+@Q=Where is the abdominal cavity located?
+@D=C
+@A=B
+@D=D
+@D=G
+@Image=Image 6
+@Random=No
+
+@Q=Where is the pelvic cavity located?
+@D=B
+@D=C
+@A=D
+@D=G
+@Image=Image 6
+@Random=No
+
+@G=4: Small Skull Cavity
+#(Question=6)
+@Q=Which smaller cavity in the skull contains the eyes?
+@A=Orbital
+@D=Nasal
+@D=Oral
+
+@Q=Which smaller cavity in the skull contains parts of the nose?
+@D=Orbital
+@A=Nasal
+@D=Oral
+
+@Q=Which smaller cavity in the skull contains the teeth and tongue?
+@D=Orbital
+@D=Nasal
+@A=Oral
+
+
+#(Image 7)
+
+@Q=Where is the orbital cavity?
+@A=A
+@D=B
+@D=C
+@Image=Image 7
+@Random=No
+
+@Q=Where is the nasal cavity?
+@D=A
+@A=B
+@D=C
+@Image=Image 7
+@Random=No
+
+@Q=Where is the oral cavity?
+@D=A
+@D=B
+@A=C
+@Image=Image 7
+@Random=No
+
+@G=5: Abdominal Regions and Cavity
+#(Question=8)
+@Q=How many quadrants are in the abdominal region?
+@D=3
+@A=4
+@D=5
+@D=6
+@Random=No
+
+@Q=The left lumbar region is found in what body cavity?
+@A=Abdominal
+@D=Orbital
+@D=Dorsal
+@D=Thoracic
+
+
+#(Image 8)
+
+@Q=Where is the Right Lumbar abdominal cavity?
+@A=A
+@D=B
+@D=C
+@D=E
+@Image=Image 8
+@Random=No
+
+@Q=Where is the Right Iliac abdominal cavity?
+@D=A
+@A=B
+@D=C
+@D=E
+@Image=Image 8
+@Random=No
+
+@Q=Where is the Right Hypochondriac abdominal cavity?
+@D=A
+@D=B
+@A=C
+@D=D
+@Image=Image 8
+@Random=No
+
+@Q=Where is the Hypogastric abdominal cavity?
+@D=C
+@A=D
+@D=E
+@D=F
+@Image=Image 8
+@Random=No
+
+@Q=Where is the Epigastric abdominal cavity?
+@D=B
+@D=C
+@D=D
+@A=E
+@Image=Image 8
+@Random=No
+
+@Q=Where is the Umbilical abdominal cavity?
+@D=C
+@D=D
+@D=E
+@A=F
+@Image=Image 8
+@Random=No
+
+
+
